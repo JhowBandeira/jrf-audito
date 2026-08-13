@@ -1,0 +1,9 @@
+Base para atualização da tabela tipi quando houver site da receita
+
+
+https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/legislacao/tipi-tabela-de-incidencia-do-imposto-sobre-produtos-industrializados
+
+Quando houver atualização informar e deixar disponivel para download.
+
+
+confrontar nosso NCM com o NCM informado na TIPI e confrontar o IPI se esta com a aliquota conforme tabela tipi
