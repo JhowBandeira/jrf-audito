@@ -1,0 +1,23 @@
+﻿# JRF-Audito - dependencias minimas
+#
+# Python atual verificado no ambiente: 3.14.6
+# Dependencias registradas somente quando efetivamente usadas no projeto.
+#
+# Compatibilidade verificada:
+# - pandas: Requires-Python >=3.11 e distribuicao com wheel CPython 3.14.
+# - openpyxl: Requires-Python >=3.8 e wheel universal Python 3.
+# - SQLAlchemy 2.0.51: Requires-Python >=3.7 e wheel CPython 3.14 para Windows.
+# - Alembic 1.18.5: Requires-Python >=3.10; instalado e validado com Python 3.14.6.
+# - FastAPI 0.116.2: Requires-Python >=3.8; instalado e validado com Python 3.14.6.
+# - Uvicorn 0.35.0: Requires-Python >=3.9; instalado e validado com Python 3.14.6.
+# - Pydantic 2.13.4: Requires-Python >=3.9; instalado e validado com Python 3.14.6.
+# - httpx 0.28.1: Requires-Python >=3.8; necessario para testes reais com FastAPI TestClient.
+
+pandas>=3.0,<4.0
+openpyxl>=3.1,<4.0
+SQLAlchemy>=2.0,<2.1
+alembic>=1.18,<1.19
+fastapi>=0.116,<0.117
+uvicorn>=0.35,<0.36
+pydantic>=2.12,<3.0
+httpx>=0.28,<0.29
